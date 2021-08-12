@@ -13,8 +13,8 @@
 2.  xxxx
 3.  xxxx
 
-#### 使用说明
-- 接入pico
+#### 第一次使用说明
+- 接入pico，[驱动和固件烧写]()
 - 将pack文件夹整体载入置Pico内部
 - 用Thonny加载examples中的代码进行测试
 
