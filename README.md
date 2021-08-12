@@ -1,23 +1,23 @@
-# Raspberry Pi Pico
+# Pico 通过 MicroPyth 设计
 
-#### 介绍
-DXG Team Create a pico learning tutorials, more examples more stars.
+#### 目录介绍
+- examples: 例程存储文件夹
+- pack: 例程实现需要的基础库文件夹
+- main.py: 烧写固件后验证用测试代码
+- rp2-pico-20210618-v1.16.uf2: 基于20210618的micropython固件
+- README.md: 中文说明
+- README.en.md: 英文说明
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
+#### 板卡驱动
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 接入pico
+- 将pack文件夹整体载入置Pico内部
+- 用Thonny加载examples中的代码进行测试
 
 #### 参与贡献
 
@@ -26,12 +26,11 @@ DXG Team Create a pico learning tutorials, more examples more stars.
 3.  提交代码
 4.  新建 Pull Request
 
+#### QA
 
-#### 特技
+1.  xxxx
+2.  xxxx
+3.  xxxx
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+#### 欢迎大家一键三联

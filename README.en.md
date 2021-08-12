@@ -1,36 +1,36 @@
-# Raspberry Pi Pico
+# Pico 通过 MicroPyth 设计
 
-#### Description
-DXG Team Create a pico learning tutorials, more examples more stars.
+#### 目录介绍
+- examples: 例程存储文件夹
+- pack: 例程实现需要的基础库文件夹
+- main.py: 烧写固件后验证用测试代码
+- rp2-pico-20210618-v1.16.uf2: 基于20210618的micropython固件
+- README.md: 中文说明
+- README.en.md: 英文说明
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
+#### 板卡驱动
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
 
-#### Contribution
+#### 使用说明
+- 接入pico
+- 将pack文件夹整体载入置Pico内部
+- 用Thonny加载examples中的代码进行测试
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+#### 参与贡献
+
+1.  Fork 本仓库
+2.  新建 Feat_xxx 分支
+3.  提交代码
+4.  新建 Pull Request
+
+#### QA
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
 
 
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 欢迎大家一键三联
