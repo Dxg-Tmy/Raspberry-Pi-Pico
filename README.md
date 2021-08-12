@@ -9,7 +9,6 @@
 - README.en.md: 英文说明
 
 #### 板卡驱动
-
 1.  xxxx
 2.  xxxx
 3.  xxxx
@@ -20,17 +19,16 @@
 - 用Thonny加载examples中的代码进行测试
 
 #### 参与贡献
-
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
 
 #### QA
-
 1.  xxxx
 2.  xxxx
 3.  xxxx
 
 
-#### 欢迎大家一键三联
+#### 欢迎大家一键三联，
+千山万水总是情，给个star行不行  ^_^
