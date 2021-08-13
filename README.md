@@ -1,4 +1,5 @@
 # Pico 通过 MicroPyth 设计
+基于 Python3.0 + Raspberry Pi Pico
 
 #### 目录介绍
 - examples: 例程存储文件夹
