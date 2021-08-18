@@ -1,5 +1,5 @@
 # Pico 通过 MicroPyth 设计
-语言更改: 中文 | [@英文](https://gitee.com/dxg_Project/Raspberry-Pi-Pico/blob/master/README.md)
+语言更改: 中文 | [@英文](https://github.com/Dxg-Tmy/Raspberry-Pi-Pico)
 
 #### 目录介绍
 - examples: 例程存储文件夹
