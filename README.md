@@ -1,35 +1,40 @@
-# Pico 通过 MicroPyth 设计
-基于 Python3.0 + Raspberry Pi Pico
+# Pico design/use by MicroPython
+Change Language: [@Chinese](https://github.com/Dxg-Tmy/Raspberry-Pi-Pico/blob/master/README.chinese.md) | English
 
-#### 目录介绍
-- examples: 例程存储文件夹
-- pack: 例程实现需要的基础库文件夹
-- main.py: 烧写固件后验证用测试代码
-- rp2-pico-20210618-v1.16.uf2: 基于20210618的micropython固件
-- README.md: 中文说明
-- README.en.md: 英文说明
+#### Catalogue
+- examples: examples save folder
+- pack: examples run need packet folder
+- main.py: test codes
+- rp2-pico-20210618-v1.16.uf2: Firmware released in 201120210618[ use micropython ]
+- README.md: English description
+- README.en.md: Chinese description
 
-#### 板卡驱动
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 第一次使用说明
-- 接入pico，[驱动和固件烧写]()
-- 将pack文件夹整体载入置Pico内部
-- 用Thonny加载examples中的代码进行测试
-
-#### 参与贡献
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-#### QA
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### Board Driver
+free driver
+1. if u use windows,I Suggest u to using win10 sys.
+2. linux and Mac, We have no experience.
 
 
-#### 欢迎大家一键三联，
-千山万水总是情，给个star行不行  ^_^
+#### Getting started with MicroPython
+- reference [@official document](https://www.raspberrypi.org/documentation/rp2040/getting-started/#getting-started-with-micropython)
+  
+  tips:
+- [@Download UF2 Flie](https://micropython.org/download/rp2-pico/rp2-pico-latest.uf2)
+- [@Download Thonny](https://thonny.org/)
+
+#### Participate in the contribution
+1.  Fork this repository.
+2.  Creat Feat_xxx branch
+3.  Commit changes
+4.  Creat Pull Request
+
+#### QA info
+1.  What problem u meet?
+2.  what result u want?
+3.  what can we do for u?
+
+
+#### Welcome to [Star] [Fork] [Follow]
+Thousands of mountains and rivers always love, give a star line  
+
+Have Fun, GG GL  ^_^
